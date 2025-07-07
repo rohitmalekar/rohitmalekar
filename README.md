@@ -23,6 +23,8 @@ I am currently working on:
 - **[Inside Open Collective's Effort to Become Decentralized for Global Public Good](https://hackernoon.com/inside-open-collectives-effort-to-become-decentralized-for-global-public-good)** (HackerNoon)
 - **[Grants for Public Good: A Roadmap for Resilient Democratic Funding](https://gitcoin.mirror.xyz/YoSf01Pjm7ZDflCrLypbWxN0B0Fv2bYCVGLSOye8xjE)** (Gitcoin Blog)
 
+[Explore All Writings →](https://rohitmalekar.in/Writings)
+
 ## Let’s Collaborate
 Open for short-term consulting, grant program design, data tooling, or just riffing on impact systems. If you're building in public goods, coordination, or climate tech, I’d love to hear from you.
 
