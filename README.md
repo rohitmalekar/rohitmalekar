@@ -29,4 +29,5 @@ I am currently working on:
 Open for short-term consulting, grant program design, data tooling, or just riffing on impact systems. If you're building in public goods, coordination, or climate tech, I’d love to hear from you.
 
 → **[📬 Email me](mailto:rohitmalekar@gmail.com)** 
-→ ** [🐦 Twitter](https://twitter.com/rohitmalekar) | [Farcaster](https://warpcast.com/rohitmalekar.eth) | [🔗 LinkedIn](https://www.linkedin.com/in/rohitmalekar/) | [💻 GitHub](https://github.com/rohitmalekar)**
+
+→ **[🐦 Twitter](https://twitter.com/rohitmalekar) | [Farcaster](https://warpcast.com/rohitmalekar.eth) | [🔗 LinkedIn](https://www.linkedin.com/in/rohitmalekar/) | [💻 GitHub](https://github.com/rohitmalekar)**
