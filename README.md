@@ -9,6 +9,8 @@ I am currently working on:
 - 🪴 Capital Rails for Climate Action — Verifiable financial plumbing for grassroots climate work
 
 ### 🛠️ Featured Work
+- **[Arbitrum Stylus Sprint Ecosystem Dashboard](https://stylus-sprint.streamlit.app)** → Interactive grant analytics
+- **[GG23 Retro Funding Analysis](https://gg23-retro-analysis.streamlit.app)** → Insights on badgeholder voting and metrics relevance
 - **[OSS Funding Analysis](https://docs.opensource.observer/blog/octant-2024-grant-analytics)** → Clustered insights from Octant funded projects
 - **[Merit-based OSS funding](https://gov.gitcoin.co/t/gg23-how-were-powering-retroactive-funding-metrics-that-matter/20216)** → Data-driven framework to evaluate OSS projects
 - **[AI assistant for climate bounties](https://paragraph.xyz/@atlantisp2p/alfredv01)** → Simplifying bounty creation for measurable impact.
