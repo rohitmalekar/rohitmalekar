@@ -1,31 +1,31 @@
 ## Hi there 👋
 
-I specialize in designing funding mechanisms, building data tools, modeling public goods dynamics, and architecting crypto-native solutions to coordination problems.
+I work at the intersection of data, funding systems, and coordination for digital public goods.
 
-I am currently working on:
-- 📊 Grant Analytics — Designing metrics and visualizations for cohort performance
-- 🧮 Retroactive Grants — Building better funding signals from developer activity
-- 🔍 AI x Climate Funding — Multi-agent assistants for measurable bounty design
-- 🪴 Capital Rails for Climate Action — Verifiable financial plumbing for grassroots climate work
+I design grant programs, build analytics tools, and help complex ecosystems with better decision-making. My work helps communities and funders understand what matters, where capital flows, and how to support the projects that create real public value.
+
+Today, I focus on:  
+• Designing funding mechanisms and grant programs  
+• Building data tools and dashboards for impact analysis  
+• Writing research and narratives that make complex systems understandable  
+• Supporting open-source, climate, and digital public infrastructure initiatives
+
 
 ### 🛠️ Featured Work
-- **[Arbitrum Stylus Sprint Ecosystem Dashboard](https://stylus-sprint.streamlit.app)** → Interactive grant analytics
-- **[GG23 Retro Funding Analysis](https://gg23-retro-analysis.streamlit.app)** → Insights on badgeholder voting and metrics relevance
-- **[OSS Funding Analysis](https://docs.opensource.observer/blog/octant-2024-grant-analytics)** → Clustered insights from Octant funded projects
-- **[Merit-based OSS funding](https://gov.gitcoin.co/t/gg23-how-were-powering-retroactive-funding-metrics-that-matter/20216)** → Data-driven framework to evaluate OSS projects
-- **[AI assistant for climate bounties](https://paragraph.xyz/@atlantisp2p/alfredv01)** → Simplifying bounty creation for measurable impact.
-- **[Data-driven Quadratic Funding](https://gov.gitcoin.co/t/data-driven-decision-making-in-quadratic-funding/19752)** → Unifying context for decentralized funding
+- **Mapping Ecosystem Problems to Grants Funding** — Analysis to examine where GG24 capital allocation reliably reflects Ethereum priorities and where it structurally underfunds critical work • [Article](https://gov.gitcoin.co/t/mapping-problems-to-capital-insights-from-gitcoin-grants-24/24962) • [Dashboard](https://gov.gitcoin.co) 
+- **GG24 Domain Design** — Co-led Ethereum Interop Standards, Infra, and Analytics Quadratic Funding Round • [Article](https://gov.gitcoin.co/t/domain-announcement-interop-standards-infrastructure-analytics/24631) • [Interop Landscape](https://gov.gitcoin.co/t/gg24-update-inside-the-interop-standards-infra-analytics-round/24749) • [Grant Round Retro](https://gov.gitcoin.co/t/gg24-interop-round-retrospective/24936)
+- **Scroll Delegate Accelerator: Metrics Module** — Developed curriculum on data-driven governance for delegate decision-making • [Curriculum](https://sovs.notion.site/Scroll-Delegate-Accelerator-Week-6-217000c0d59080c49639c0719b718ca4)
+- **Grant Summit Program** — Data Driven Retrospective Framework for Grant Managers • [Slides](https://docs.google.com/presentation/d/1nH4aWmmIeuCB9WOiSAeaMR8C7Q4-UeeejV4N6xvn9NQ/edit?usp=sharing) 
 
 [View Full Portfolio →](https://rohitmalekar.in/Portfolio)
 
 ### ✍️ Select Essays
-- **[Why Web 3.0 Communities is a Big Deal?](https://uxdesign.cc/why-web-3-0-communities-are-a-big-deal-600c8e5013c3)** (UX Collective)
-- **[The Decentralized Web and the Rise of Transparency-First Institutions](https://hackernoon.com/the-decentralized-internet-and-redistribution-of-power)** (HackerNoon)
-- **[The Case for Grant Programs](https://www.gitcoin.co/blog/the-case-for-grant-programs-how-to-incentivise-ecosystem-growth-by-funding-innovation)** (Gitcoin Blog)
-- **[Inside Open Collective's Effort to Become Decentralized for Global Public Good](https://hackernoon.com/inside-open-collectives-effort-to-become-decentralized-for-global-public-good)** (HackerNoon)
-- **[Grants for Public Good: A Roadmap for Resilient Democratic Funding](https://gitcoin.mirror.xyz/YoSf01Pjm7ZDflCrLypbWxN0B0Fv2bYCVGLSOye8xjE)** (Gitcoin Blog)
-
+- [[Being Right Isn't Enough - Lessons for Ethereum from a 90s OS War]] (Feb 2026)
+- [[Beyond Stages - A Multi-Dimensional Framework for Evaluating L2s]] (Feb 2026)
+- [Mapping Problems to Capital: Insights from Gitcoin Grants 24](https://gov.gitcoin.co/t/mapping-problems-to-capital-insights-from-gitcoin-grants-24/24962) (Dec 2025)
 [Explore All Writings →](https://rohitmalekar.in/Writings)
+- [[The Biggest Risk With AI Isn’t Job Loss. It’s Loss of Agency.]] (Feb 2026)
+- [[The Infrastructure for Insight - Cultivating Personal Judgement in the Age of Generation]] (Jan 2026)
 
 ## Let’s Collaborate
 Open for short-term consulting, grant program design, data tooling, or just riffing on impact systems. If you're building in public goods, coordination, or climate tech, I’d love to hear from you.
