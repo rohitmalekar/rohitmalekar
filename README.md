@@ -23,8 +23,8 @@ Today, I focus on:
 - [Being Right Isn't Enough - Lessons for Ethereum from a 90s OS War](https://rohitmalekar.in/being-right-ethereum) (Feb 2026)
 - [Beyond Stages - A Multi-Dimensional Framework for Evaluating L2s](https://rohitmalekar.in/beyond-stages) (Feb 2026)
 - [The Biggest Risk With AI Isn’t Job Loss. It’s Loss of Agency](https://rohitmalekar.in/ai-agency-loss) (Feb 2026)
-- [Mapping Problems to Capital: Insights from Gitcoin Grants 24](https://gov.gitcoin.co/t/mapping-problems-to-capital-insights-from-gitcoin-grants-24/24962) (Dec 2025)
 - [The Infrastructure for Insight - Cultivating Personal Judgement in the Age of Generation](https://rohitmalekar.in/pkm) (Jan 2026)
+- [Mapping Problems to Capital: Insights from Gitcoin Grants 24](https://gov.gitcoin.co/t/mapping-problems-to-capital-insights-from-gitcoin-grants-24/24962) (Dec 2025)
 
 ## Let’s Collaborate
 Open for short-term consulting, grant program design, data tooling, or just riffing on impact systems. If you're building in public goods, coordination, or climate tech, I’d love to hear from you.
