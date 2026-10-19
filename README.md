@@ -34,4 +34,4 @@ I work with banks, market infrastructure, fintechs and protocol teams taking Eth
 
 **[How I work with teams](https://rohitmalekar.in/work-with-me)** · **[📅 Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)** · **[📬 Email me](mailto:rohitmalekar@gmail.com)**
 
-[X/Twitter](https://twitter.com/rohitmalekar) · [Farcaster](https://warpcast.com/rohitmalekar.eth) · [LinkedIn](https://www.linkedin.com/in/rohitmalekar/) · [About me](https://rohitmalekar.in/about)
+[X/Twitter](https://twitter.com/rohitmalekar) · [LinkedIn](https://www.linkedin.com/in/rohitmalekar/) · [About me](https://rohitmalekar.in/about)
