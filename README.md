@@ -1,40 +1,37 @@
 ## Hi there 👋
 
-I help funders and open source ecosystems see where capital flows, why, and what it produces — then I build the tools to act on it.
+I research how banks, market infrastructure and regulators in Asia could use Ethereum, and write it up for the people who have to decide.
 
-I've co-led grants rounds at Gitcoin, built analytics used in live funding decisions across the Ethereum ecosystem, and contributed governance research to ENS DAO through Metagov. Before this, I spent twenty years across consulting, product, and research, including strategy and analytics roles at Deloitte and Medallia.
+I write [The Monsoon Ledger](https://themonsoonledger.com/), a weekly on policy, regulation and Ethereum across Asian finance, and was lead researcher on [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html) for ETHIndia. My focus is tokenisation, settlement and verification in India, Singapore and Hong Kong.
 
-Today, I focus on:
-• Designing and operating funding mechanisms and grant programs
-• Building analytics dashboards and decision-support tools that funders act on
-• Ecosystem research, retrospectives, and metrics frameworks
-• Supporting open-source, climate, and digital public infrastructure initiatives
+I spent twenty years inside large institutions and four years inside Ethereum. Strategy and analytics roles at Deloitte and Medallia taught me how institutions evaluate and adopt technology. Allocating and measuring capital onchain at Gitcoin, Metagov and Scroll taught me how Ethereum behaves in production.
 
-**Recent collaborations:** [Gitcoin](https://gitcoin.co) · [Metagov](https://metagov.org) · [Open Source Observer](https://opensource.observer) · [Scroll](https://scroll.io)
+### 🏦 Current work
 
-### 🛠️ Featured Work
+- [The Monsoon Ledger](https://themonsoonledger.com/): weekly briefings for banks, market infrastructure and regulators across India, Singapore and Hong Kong. Regulatory Wire tracks circulars as they land, Pilot Scorecard follows institutional pilots, and Under the Hood explains the systems behind them. • [Subscribe](https://themonsoonledger.com/)
+- [Ethereum and Indian Institutional Finance](https://institutions.ethindia.co/briefing.html) (ETHIndia, 2026): lead researcher on a seven-module briefing that starts from India's tokenisation mandates under SEBI and RBI and asks what they should run on. Every figure is source-linked in a public ledger with verification tiers.
 
-- **ENS DAO Governance Research Platform** — Analytics for Metagov's independent governance retrospective of ENS DAO; a reproducible data stack (Dagster + dbt + DuckDB) across 7 onchain and forum data sources, cited in active decisions over a $400M+ treasury • [Case Study](https://rohitmalekar.in/ens-governance-analytics) • [Dashboard](https://ensretro.metagov.org) • [Repo](https://github.com/metagov/ENS-Retro-Data)
-- **GG24 Interop Standards, Infrastructure & Analytics Round** — Co-designed and operated Ethereum's first interop-focused grants domain; a $100K+ QF round from domain thesis to public retrospective • [Case Study](https://rohitmalekar.in/gg24-interop-case-study) • [Domain Design](https://gov.gitcoin.co/t/domain-announcement-interop-standards-infrastructure-analytics/24631) • [Retrospective](https://gov.gitcoin.co/t/gg24-interop-round-retrospective/24936)
-- **Mapping Ecosystem Problems to Grants Funding** — Demonstrated that QF reliably funds visible, legible work but structurally underfunds ecosystem-critical infrastructure — a finding that informs how domain operators design future rounds • [Analysis](https://gov.gitcoin.co/t/mapping-problems-to-capital-insights-from-gitcoin-grants-24/24962) • [Dashboard](https://gg24-analysis.fly.dev)
-- **Scroll Delegate Accelerator: Metrics Module** — Designed and delivered a data-driven governance curriculum to 30 delegate candidates evaluating proposals with onchain metrics • [Curriculum](https://scrollzkp.notion.site/6-A-useful-approach-to-metrics-2ac7792d22af80f488cce5b6e7dfd508)
+### 🛠️ Earlier work: capital allocation onchain
 
-[View Full Portfolio →](https://rohitmalekar.in/portfolio/)
+- ENS DAO Governance Research Platform: analytics for Metagov's independent governance review of a $400M+ treasury, built on a reproducible data stack (Dagster + dbt + DuckDB) across 7 onchain and forum sources • [Case Study](https://rohitmalekar.in/ens-governance-analytics) • [Dashboard](https://ensretro.metagov.org) • [Repo](https://github.com/metagov/ENS-Retro-Data)
+- GG24 Interop Standards Round: co-designed and operated Ethereum's first interop-focused grants domain, a $100K+ round • [Case Study](https://rohitmalekar.in/gg24-interop-case-study) • [Retrospective](https://gov.gitcoin.co/t/gg24-interop-round-retrospective/24936)
+- GG24 Capital Allocation Analysis: showed that quadratic funding underfunds ecosystem-critical infrastructure • [Analysis](https://gov.gitcoin.co/t/mapping-problems-to-capital-insights-from-gitcoin-grants-24/24962) • [Dashboard](https://gg24-analysis.fly.dev)
 
-### ✍️ Select Essays
+[View full portfolio](https://rohitmalekar.in/portfolio/)
 
-- [Being Right Isn't Enough - Lessons for Ethereum from a 90s OS War](https://rohitmalekar.in/being-right-ethereum) (Feb 2026)
-- [Beyond Stages - A Multi-Dimensional Framework for Evaluating L2s](https://rohitmalekar.in/beyond-stages) (Feb 2026)
-- [The Biggest Risk With AI Isn't Job Loss. It's Loss of Agency](https://rohitmalekar.in/ai-agency-loss) (Feb 2026)
-- [The Infrastructure for Insight - Cultivating Personal Judgement in the Age of Generation](https://rohitmalekar.in/pkm) (Jan 2026)
-- [Mapping Problems to Capital: Insights from Gitcoin Grants 24](https://gov.gitcoin.co/t/mapping-problems-to-capital-insights-from-gitcoin-grants-24/24962) (Dec 2025)
+### ✍️ Recent essays
 
-More at [rohitmalekar.in](https://rohitmalekar.in) — essays and an atomic notes library, grown in public.
+- [Tokenized Securities: A Diwali Wish List for SEBI and RBI](https://rohitmalekar.in/tokenized-securities-diwali-wish-list) (Oct 2026)
+- [Why Some Money Moves in Seconds and Some Takes Days](https://rohitmalekar.in/why-money-moves-slowly) (Oct 2026)
+- [Ethereum's Privacy Stack and the Gap in the Middle](https://rohitmalekar.in/ethereum-privacy-stack) (Sep 2026)
+- [Being Right Isn't Enough: Lessons for Ethereum from a 90s OS War](https://rohitmalekar.in/being-right-ethereum) (Feb 2026)
 
-## Let's Work Together
+More at [rohitmalekar.in](https://rohitmalekar.in): essays and an atomic notes library, grown in public.
 
-Open to short-term consulting, fractional roles, and project-based collaborations: grant program design, ecosystem analytics, funding systems, and advisory for public-interest technology.
+## Work with me
 
-→ **[How I support teams](https://rohitmalekar.in/work-with-me)** · **[📅 Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)** · **[📬 Email me](mailto:rohitmalekar@gmail.com)**
+I work with banks, market infrastructure, fintechs and protocol teams taking Ethereum into regulated finance in Asia: regulatory and market mapping, commissioned research, pilot evaluation and advisory. I'm also open to full-time roles and speaking.
 
-→ **[X/Twitter](https://twitter.com/rohitmalekar) | [Farcaster](https://warpcast.com/rohitmalekar.eth) | [LinkedIn](https://www.linkedin.com/in/rohitmalekar/) | [About me](https://rohitmalekar.in/about)**
+**[How I work with teams](https://rohitmalekar.in/work-with-me)** · **[📅 Book a 30-min intro call](https://calendar.app.google/eNdwvBGJn8p29r5U6)** · **[📬 Email me](mailto:rohitmalekar@gmail.com)**
+
+[X/Twitter](https://twitter.com/rohitmalekar) · [Farcaster](https://warpcast.com/rohitmalekar.eth) · [LinkedIn](https://www.linkedin.com/in/rohitmalekar/) · [About me](https://rohitmalekar.in/about)
